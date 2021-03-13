@@ -1,7 +1,6 @@
 # Hi there 👋 I'm Nadson!
 - 👋I am a software engineer and I love learning new technologies. I currently work with .Net at the state attorney's office in Bahia, in addition to working at my own company with nodeJS, react native and reactJS.
 - 👀 I’m interested in new tecnologies, games and movies.
-- 🌱 I’m currently learning nodeJS, ReactJS and React Native
 - 📫 you can find me on [linkedin](https://www.linkedin.com/in/nadson-dias-ribeiro-b3b627122/) 
 
 ### :technologist: I'm currently working on:
