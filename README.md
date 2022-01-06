@@ -6,9 +6,9 @@
 ### :technologist: I'm currently working on:
 - My React and Node skills
 
-### 🔭 Goals for 2021
+### 🔭 Goals for 2022
 
-I want to learn English. Now I watch English youtube channels and I read articles everyday, I hope I can be prepared in 2021 💪. I am Looking for projects that improve my knowledge in programming.
+I want to learn English. Now I watch English youtube channels and I read articles everyday, I hope I can be prepared in 2022 💪. I am Looking for projects that improve my knowledge in programming.
 
 ### 📚 Langues and Frameworks
 - HTML5
@@ -24,3 +24,5 @@ I want to learn English. Now I watch English youtube channels and I r
 
 - Next.js
 - GraphQL
+- Docker
+- Blazor
